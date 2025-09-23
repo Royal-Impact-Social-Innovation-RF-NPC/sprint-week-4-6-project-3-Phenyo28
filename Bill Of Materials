@@ -1,0 +1,9 @@
+Component Name	Purpose in Project	Quantity
+ESP32	Main microcontroller: It collects sensor data & controls outputs	1
+9 V Battery	Powers the system   	1
+Pulse sensor	Measures the user’s heart rate   	1
+IR Thermometer sensor	Measures body temperature  	1
+Breadboard	For circuit assembly	1
+USB A-Male to Micro USB Male	Powers or programs the ESP32 via USB	1
+LCD screen	Displays real-time sensor readings	1
+On/Off Switch	Turns the device on or off  	1
